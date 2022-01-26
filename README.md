@@ -2,8 +2,8 @@
 
 <img
             src="https://media-exp1.licdn.com/dms/image/C5603AQG5oQUjjSZe7A/profile-displayphoto-shrink_200_200/0/1612848335187?e=1648684800&v=beta&t=wEvIdpMb8C_UALQG3Y5gDdv8u0XbdfroJUnQpzCzSys"
-            height="80%"
-            width="80%"
+            height="20%"
+            width="20%"
             alt="Sagar Profile Picture"
           />
 <h1>Sagar Gurung</h1>
