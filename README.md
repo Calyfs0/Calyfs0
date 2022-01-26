@@ -8,7 +8,7 @@
           />
 <h1>Sagar Gurung</h1>
           <p>
-            <em>Programmer</strong>.</em>
+            <em>Programmer</strong></em>
           </p>
           <p>
             I am a programmer by habit. But apart from it I love mentoring
