@@ -16,6 +16,41 @@
             <li>📫 How to reach me : bitxsugar@gmail.com.</li>
             <li>🤝 LinkedIn Profile: Visit <a href="https://www.linkedin.com/in/dhatedone/">here</a> to connect to me.</li>
           </ul>
+          <h3>SKILLS</h3>
+          <table>
+          <tr>
+                    <td>Data Structure</td>
+                    <td>★★★</td>
+          </tr>
+          <tr>
+                    <td>SQL</td>
+                    <td>★★★</td>
+          </tr>
+          <tr>
+                    <td>C#</td>
+                    <td>★★★</td>
+          </tr>
+          <tr>
+                    <td>MONGODB</td>
+                    <td>★★★</td>
+          </tr>
+          <tr>
+                    <td>EXPRESS.JS </td>
+                    <td>★★★</td>
+          </tr>
+          <tr>
+                    <td>NODE.JS</td>
+                    <td>★★★</td>
+          </tr>
+          <tr>
+                    <td>HTML5</td>
+                    <td>★★★</td>
+          </tr>
+          <tr>
+                    <td> CSS3</td>
+                    <td>★★★</td>
+          </tr>
+          </table>
            <h3>HOBBIES</h3>
           <ul>
           <li>Cycling. Check out my strava profile <a href="https://www.strava.com/athletes/71905843">here</a></li>
