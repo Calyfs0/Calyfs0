@@ -23,16 +23,13 @@
             <li>🌱 I’ve  7+ years of experience working on Windows form development using C#/VB with SQL as backend. I have also experience in making API using Asp.Net Web API with C# and SQL.</li>
             <li>📫 How to reach me : bitxsugar@gmail.com</li>
           </ul>
-          
-          <h1>HOBBIES</h1>
+           <h3>HOBBIES</h3>
           <ul>
           <li>Cycling. Check out my strava profile <a href="https://www.strava.com/athletes/71905843">here</a></li>
+          <li>Esports - Dota, Valorant, CS-GO</li>
+          <li>I can say programming is my hobby too, nothing gives me more joy than working on a project.</li>
           </ul>
           
-
-
-
-
 
 <!---
 Calyfs0/Calyfs0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
