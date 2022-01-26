@@ -21,7 +21,8 @@
             <li>💞️ I’m Currently upskilling myself on DSA, LLD, HLD on MERN Stack from Scaler Academy.</li>
             <li>👀 I’m interested in working on real world problems that can make people happy.</li>
             <li>🌱 I’ve  7+ years of experience working on Windows form development using C#/VB with SQL as backend. I have also experience in making API using Asp.Net Web API with C# and SQL.</li>
-            <li>📫 How to reach me : bitxsugar@gmail.com</li>
+            <li>📫 How to reach me : bitxsugar@gmail.com.</li>
+            <li>🤝 LinkedIn Profile: Visit <a href="https://www.linkedin.com/in/dhatedone/">here</a> to connect to me.</li>
           </ul>
            <h3>HOBBIES</h3>
           <ul>
