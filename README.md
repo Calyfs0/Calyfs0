@@ -27,7 +27,7 @@
                     <td>★★★</td>
           </tr>
           <tr>
-                    <td>C#</td>
+                    <td>JavaScript</td>
                     <td>★★★</td>
           </tr>
           <tr>
