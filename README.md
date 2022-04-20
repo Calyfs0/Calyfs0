@@ -27,19 +27,27 @@
                     <td>★★★</td>
           </tr>
           <tr>
-                    <td>JavaScript</td>
+                    <td>C#</td>
                     <td>★★★</td>
           </tr>
           <tr>
-                    <td>MONGODB</td>
+                    <td>NOSQL</td>
                     <td>★★★</td>
           </tr>
           <tr>
-                    <td>EXPRESS.JS </td>
+                    <td>ASP.Net Core</td>
                     <td>★★★</td>
           </tr>
           <tr>
-                    <td>NODE.JS</td>
+                    <td>ASP.Net Web API</td>
+                    <td>★★★</td>
+          </tr>
+          <tr>
+                    <td>Entity Framework</td>
+                    <td>★★★</td>
+          </tr>
+          <tr>
+                    <td>LINQ</td>
                     <td>★★★</td>
           </tr>
           <tr>
