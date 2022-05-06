@@ -31,10 +31,6 @@
                     <td>★★★</td>
           </tr>
           <tr>
-                    <td>NOSQL</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
                     <td>ASP.Net Core</td>
                     <td>★★★</td>
           </tr>
