@@ -63,7 +63,8 @@
                     <td>★★★</td>
           </tr>
           
-          </table>
+          
+          
 <h3>HOBBIES</h3>
           <ul>
           <li>Cycling. Check out my strava profile <a href="https://www.strava.com/athletes/71905843">here</a></li>
