@@ -17,7 +17,7 @@
             <li>🤝 LinkedIn Profile: Visit <a href="https://www.linkedin.com/in/dhatedone/">here</a> to connect to me.</li>
           </ul>
           <h3>SKILLS</h3>
-          <table>
+ <table>
           <tr>
                     <td>Data Structure</td>
                     <td>★★★★</td>
