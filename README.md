@@ -23,6 +23,10 @@
                     <td>★★★</td>
           </tr>
           <tr>
+                    <td>Low Level Design</td>
+                    <td>★★★</td>
+          </tr>
+          <tr>
                     <td>HTML5</td>
                     <td>★★★</td>
           </tr>
