@@ -23,6 +23,18 @@
                     <td>★★★</td>
           </tr>
           <tr>
+                    <td>HTML5</td>
+                    <td>★★★</td>
+          </tr>
+          <tr>
+                    <td> CSS3</td>
+                    <td>★★★</td>
+          </tr>
+          <tr>
+                    <td>Javascript</td>
+                    <td>★★★</td>
+          </tr>
+          <tr>
                     <td>SQL</td>
                     <td>★★★</td>
           </tr>
@@ -46,14 +58,7 @@
                     <td>LINQ</td>
                     <td>★★★</td>
           </tr>
-          <tr>
-                    <td>HTML5</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td> CSS3</td>
-                    <td>★★★</td>
-          </tr>
+          
           </table>
            <h3>HOBBIES</h3>
           <ul>
