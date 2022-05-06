@@ -65,12 +65,7 @@
           
           
           
-<h3>HOBBIES</h3>
-          <ul>
-          <li>Cycling. Check out my strava profile <a href="https://www.strava.com/athletes/71905843">here</a></li>
-          <li>Esports - Dota, Valorant, CS-GO, Apex Legends</li>
-          <li>I can say programming is my hobby too, nothing gives me more joy than working on a project.</li>
-          </ul>
+
           
 
 <!---
