@@ -17,53 +17,7 @@
             <li>🤝 LinkedIn Profile: Visit <a href="https://www.linkedin.com/in/dhatedone/">here</a> to connect to me.</li>
           </ul>
           <h3>SKILLS</h3>
-          <table>
-          <tr>
-                    <td>Data Structure</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td>Low Level Design</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td>HTML5</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td> CSS3</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td>Javascript</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td>SQL</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td>C#</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td>ASP.Net Core</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td>ASP.Net Web API</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td>Entity Framework</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td>LINQ</td>
-                    <td>★★★</td>
-          </tr>
           
-          </table>
           <h3>HOBBIES</h3>
           <ul>
           <li>Cycling. Check out my strava profile <a href="https://www.strava.com/athletes/71905843">here</a></li>
