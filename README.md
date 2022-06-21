@@ -13,8 +13,6 @@
             <li>💞️ I’m Currently upskilling myself on DSA, LLD, HLD on full Stack (React + Java) from Scaler Academy.</li>
             <li>👀 I’m interested in working on real world problems that can make people happy.</li>
             <li>🌱 I’ve  8+ years of experience working on Java backend development using Java8, Sprint Boot, MySQL, microservices. I have also experience in making API using Asp.Net Web API with C# and SQL.</li>
-          
-          <li>Additional Skills: Microservices, Git, Maven, Gradle, SVN, Team foundation server.</li>
             <li>📫 How to reach me : bitxsugar@gmail.com.</li>
             <li>🤝 LinkedIn Profile: Visit <a href="https://www.linkedin.com/in/dhatedone/">here</a> to connect to me.</li>
           </ul>
