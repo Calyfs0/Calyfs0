@@ -7,7 +7,6 @@
             people, working with startups, helping people wherever I can. I am
             very well versed with full stack development means
             web/desktop/mobile/cloud/meta. I am addicted a lot to ❤ coffee ❤.
-            <strong>P.S: Don't think I am a nerd :D</strong>
           </p>
           <ul>
             <li>💞️ I’m Currently upskilling myself on DSA, LLD, HLD on full Stack (React + Java) from Scaler Academy.</li>
