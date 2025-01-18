@@ -6,12 +6,11 @@
             I am a programmer by habit. But apart from it I love mentoring
             people, working with startups, helping people wherever I can. I am
             very well versed with full stack development means
-            web/desktop/mobile/cloud/meta. I am addicted a lot to ❤ coffee ❤.
+            web/desktop/mobile/cloud/meta.
           </p>
-          <ul>
-            <li>💞️ I’m Currently upskilling myself on DSA, LLD, HLD on full Stack (React + Java) from Scaler Academy.</li>
+          <ul> 
             <li>👀 I’m interested in working on real world problems that can make people happy.</li>
-            <li>🌱 I’ve  8+ years of experience working on Java backend development using Java8, Sprint Boot, MySQL, microservices. I have also experience in making API using Asp.Net Web API with C# and SQL.</li>
+            <li>🌱 I’ve  8+ years of experience working on Java backend development using Java8, Sprint Boot, MySQL/Oracle/PostGres, microservices. </li>
             <li>📫 How to reach me : bitxsugar@gmail.com.</li>
             <li>🤝 LinkedIn Profile: Visit <a href="https://www.linkedin.com/in/dhatedone/">here</a> to connect to me.</li>
           </ul>
@@ -23,10 +22,6 @@
           </tr>
           <tr>
                     <td>Low Level Design</td>
-                    <td>★★★★</td>
-          </tr>
-           <tr>
-                    <td>Python</td>
                     <td>★★★★</td>
           </tr>
           <tr>
@@ -62,28 +57,8 @@
                     <td>★★★★</td>
           </tr>
           <tr>
-                    <td>C#</td>
-                    <td>★★★★</td>
-          </tr>
-          <tr>
-                    <td>ASP.Net Core</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td>ASP.Net Web API</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td>Entity Framework</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
-                    <td>LINQ</td>
-                    <td>★★★</td>
-          </tr>
-          <tr>
                     <td>Additional Skills</td>
-                    <td>Microservices, Git, Maven, Gradle, SVN, Team foundation server</td>
+                    <td>Microservices, Git, Maven, Gradle, Azure.</td>
           </tr>
           
           
